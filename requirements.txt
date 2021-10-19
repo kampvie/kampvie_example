@@ -1,0 +1,12 @@
+certifi==2021.10.8
+charset-normalizer==2.0.7
+docutils==0.17.1
+example==0.1
+flit==3.4.0
+flit-core==3.4.0
+idna==3.3
+kampvie-example==0.1
+requests==2.26.0
+tomli==1.2.1
+tomli-w==0.3.0
+urllib3==1.26.7
